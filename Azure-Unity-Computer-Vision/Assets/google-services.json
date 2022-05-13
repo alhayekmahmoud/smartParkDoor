@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "313241684678",
+    "firebase_url": "https://ocrtest1-fbbb9-default-rtdb.firebaseio.com",
+    "project_id": "ocrtest1-fbbb9",
+    "storage_bucket": "ocrtest1-fbbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313241684678:android:b0a4edf1f7b5ecda5fe5c7",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseAuthTutorialCompleteProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313241684678-onf91g0ulfq0euastq1490pcqh3nmd6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLQH0bQxWpYJ64xOFR1_Cr2ZsqXAJ8dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313241684678-onf91g0ulfq0euastq1490pcqh3nmd6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313241684678:android:ca2a8f144f90bb725fe5c7",
+        "android_client_info": {
+          "package_name": "com.vsoft.azuredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313241684678-onf91g0ulfq0euastq1490pcqh3nmd6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLQH0bQxWpYJ64xOFR1_Cr2ZsqXAJ8dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313241684678-onf91g0ulfq0euastq1490pcqh3nmd6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
